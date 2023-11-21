@@ -1,5 +1,6 @@
 
 import './App.css'
+import CheckBoxList from './CheckBoxList'
 import DependecyList from './DependecyList'
 
 function App() {
@@ -7,7 +8,8 @@ function App() {
 
   return (
     <>
-      <DependecyList/>
+      {/* <DependecyList/> */}
+      <CheckBoxList/>
     </>
   )
 }
