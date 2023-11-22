@@ -1,10 +1,10 @@
-.list{
-    display: flex;
+.list {
+  display: flex;
 }
-*{
-    padding: 10px;
-    margin:10px;
+* {
+  padding: 10px;
+  margin: 10px;
 }
-.list-item{
-    list-style-type: none;
+.list-item {
+  list-style-type: none;
 }
