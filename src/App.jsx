@@ -1,17 +1,14 @@
-
-import './App.css'
-import CheckBoxList from './CheckBoxList'
-import DependecyList from './DependecyList'
+import "./App.css";
+import CheckBoxList from "./CheckBoxList";
+import DependecyList from "./DependecyList";
 
 function App() {
- 
-
   return (
     <>
       {/* <DependecyList/> */}
-      <CheckBoxList/>
+      <CheckBoxList />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
