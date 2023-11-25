@@ -1,3 +1,4 @@
+import ApiFetch from "./ApiFetch";
 import "./App.css";
 import CheckBoxList from "./CheckBoxList";
 import DependecyList from "./DependecyList";
@@ -10,7 +11,8 @@ function App() {
       {/* <DependecyList/> */}
       {/* <CheckBoxList /> */}
       {/* <HideAndShow/> */}
-      <TwoWayBinding/>
+      {/* <TwoWayBinding/> */}
+      <ApiFetch/>
     </>
   );
 }
